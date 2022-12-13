@@ -8,9 +8,9 @@
 
 - Plugin ID: `mirror_control`
 - Plugin Name: Mirror Control
-- Version: 1.0.2
-  - Metadata version: 1.0.2
-  - Release version: 1.0.2
+- Version: 1.0.3
+  - Metadata version: 1.0.3
+  - Release version: 1.0.3
 - Total downloads: 1
 - Authors: [Chara_SS](https://github.com/charassss/)
 - Repository: https://github.com/charassss/Mirror-Control
@@ -66,7 +66,7 @@ config.json
     		|- default * (Change to whatever you want, just don't leave it as 'default'. It's ugly.) |       |
     		|		|- name * (Any server nickname you want)
     		|		|- location * (An absolute address)
-    		|		|- target_region_location * (Its region file address)
+    		|		|- target_server_location * (Its server directory location)
     		-		|- command * (Start command. Can simply be filled in with 'start.bat' or 'sh start.sh')   |
     		-		|- rcon
     		|			|- enable * (boolean true)
@@ -82,6 +82,7 @@ config.json
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [MirrorControl-v1.0.3.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.3) | 1.0.3 | 2022/12/13 11:07:37 | 4.15KB | 0 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.3/MirrorControl-v1.0.3.mcdr) |
 | [MirrorControl-v1.0.2.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.2) | 1.0.2 | 2022/12/07 09:26:32 | 4.16KB | 0 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.2/MirrorControl-v1.0.2.mcdr) |
 | [MirrorControl-v1.0.1.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.1) | 1.0.1 | 2022/12/06 13:58:40 | 4.14KB | 1 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.1/MirrorControl-v1.0.1.mcdr) |
 | [MirrorControl-v1.0.0.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.0) | 1.0.0 | 2022/12/06 09:27:33 | 3.86KB | 0 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.0/MirrorControl-v1.0.0.mcdr) |
