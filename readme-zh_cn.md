@@ -61,7 +61,7 @@
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2022/11/30 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MCDRpost](/plugins/mcdrpost/readme-zh_cn.md) | [Flyky](https://github.com/Flyky) | 一个用于邮寄/传送物品的MCDR插件 | 2022/06/16 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Minecraft Command Register](/plugins/minecraft_command_register/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing) | 在 Minecraft 中注册 MCDReforged 指令 | 2022/12/01 | [`API`](/labels/api/readme-zh_cn.md) |
+| [Minecraft Command Register](/plugins/minecraft_command_register/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing) | 在 Minecraft 中注册 MCDReforged 指令 | 2022/11/20 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个用获得玩家信息等数据的的 API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Minecraft Version API](/plugins/minecraft_version_api/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于获取 Minecraft 服务端版本的 API 插件 | 2022/08/27 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Mirror Control](/plugins/mirror_control/readme-zh_cn.md) | [Chara_SS](https://github.com/charassss/) | 一个控制镜像服务器的插件 | 2022/12/13 | [`管理`](/labels/management/readme-zh_cn.md) |
