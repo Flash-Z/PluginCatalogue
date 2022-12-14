@@ -17,7 +17,7 @@ Plugin Amount: 15
 | [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2022/11/30 | [`API`](/labels/api/readme.md) |
 | [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2022/11/25 | [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme.md) |
-| [Minecraft Command Register](/plugins/minecraft_command_register/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing) | Register MCDReforged commands in Minecraft | 2022/11/20 | [`API`](/labels/api/readme.md) |
+| [Minecraft Command Register](/plugins/minecraft_command_register/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing) | Register MCDReforged commands in Minecraft | 2022/12/01 | [`API`](/labels/api/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | 2021/08/16 | [`API`](/labels/api/readme.md) |
 | [Minecraft Version API](/plugins/minecraft_version_api/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A api plugin to get the Minecraft server version | 2022/08/27 | [`API`](/labels/api/readme.md) |
 | [MoreCommandNodes](/plugins/more_command_nodes/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | More command nodes | 2022/07/18 | [`API`](/labels/api/readme.md) |
