@@ -9,7 +9,7 @@
 - 插件 ID: `mcd_seen`
 - 插件名: Seen
 - 版本: 1.2.0
-  - 元数据版本: 1.2.0
+  - 元数据版本: 1.2.1-alpha.1
   - 发布版本: 1.2.0
 - 总下载量: 2977
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
