@@ -7,26 +7,20 @@
 ### Basic Information
 
 - Plugin ID: `info`
-- Plugin Name: Info
-- Version: 0.1.0
-  - Metadata version: 0.1.0
-  - Release version: 0.1.0
+- Version: *Data fetching failed*
 - Total downloads: 365
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: Get server info
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [psutil](https://pypi.org/project/psutil) |  |
+*Data fetching failed*
 
 ### Introduction
 

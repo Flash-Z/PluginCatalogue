@@ -7,26 +7,20 @@
 ### 基本信息
 
 - 插件 ID: `daytime`
-- 插件名: Daytime
-- 版本: 1.1.0
-  - 元数据版本: 1.1.0
-  - 发布版本: 1.1.0
+- 版本: *数据拉取失败*
 - 总下载量: 1702
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 显示游戏中的时间
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.0.0-beta.1 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
