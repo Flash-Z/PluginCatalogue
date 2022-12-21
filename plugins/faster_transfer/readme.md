@@ -7,20 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `faster_transfer`
-- Version: *Data fetching failed*
+- Plugin Name: Faster Transfer
+- Version: 0.1
+  - Metadata version: 0.1.0
+  - Release version: 0.1
 - Total downloads: 233
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/FasterTransfer
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: :rocket: Make web? file transfers faster!
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [speedcopy](https://pypi.org/project/speedcopy) |  |
 
 ### Introduction
 

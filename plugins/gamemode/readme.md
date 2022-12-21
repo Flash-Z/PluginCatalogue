@@ -7,20 +7,26 @@
 ### Basic Information
 
 - Plugin ID: `gamemode`
-- Version: *Data fetching failed*
+- Plugin Name: Gamemode
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: 1.0.0
 - Total downloads: 298
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Change to spectator mode for observe, teleport to origin position when change back to survival mode
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

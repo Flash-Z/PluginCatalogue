@@ -7,20 +7,26 @@
 ### Basic Information
 
 - Plugin ID: `daytime`
-- Version: *Data fetching failed*
+- Plugin Name: Daytime
+- Version: 1.1.0
+  - Metadata version: 1.1.0
+  - Release version: 1.1.0
 - Total downloads: 1702
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: show time in minecraft
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.0.0-beta.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

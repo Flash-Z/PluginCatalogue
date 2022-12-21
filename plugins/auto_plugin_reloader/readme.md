@@ -7,20 +7,26 @@
 ### Basic Information
 
 - Plugin ID: `auto_plugin_reloader`
-- Version: *Data fetching failed*
+- Plugin Name: Auto Plugin Reloader
+- Version: 1.1.3
+  - Metadata version: 1.1.3
+  - Release version: 1.1.3
 - Total downloads: 4498
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: Automatically reload plugins when file changes
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

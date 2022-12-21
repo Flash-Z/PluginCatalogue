@@ -7,20 +7,26 @@
 ### 基本信息
 
 - 插件 ID: `gamemode`
-- 版本: *数据拉取失败*
+- 插件名: Gamemode
+- 版本: 1.0.0
+  - 元数据版本: 1.0.0
+  - 发布版本: 1.0.0
 - 总下载量: 298
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 旁观者模式以旁观，返回生存时传送回原坐标
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 
