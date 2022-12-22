@@ -22,7 +22,7 @@
 | [Minecraft Version API](/plugins/minecraft_version_api/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于获取 Minecraft 服务端版本的 API 插件 | 2022/08/27 | [`API`](/labels/api/readme-zh_cn.md) |
 | [MoreCommandNodes](/plugins/more_command_nodes/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 更多的指令节点 | 2022/07/18 | [`API`](/labels/api/readme-zh_cn.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | 2022/02/02 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
-| [OneBot API](/plugins/onebot_api/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2021/09/06 | [`API`](/labels/api/readme-zh_cn.md) |
+| [OneBot API](/plugins/onebot_api/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2022/11/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [UUIDAPI](/plugins/uuid_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | 2022/06/30 | [`API`](/labels/api/readme-zh_cn.md) |
 | [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | 2022/05/21 | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 
