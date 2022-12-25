@@ -36,7 +36,7 @@ Plugin Amount: 81
 | [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | 2021/08/22 | [`Tool`](/labels/tool/readme.md) |
 | [DatabaseAPI](/plugins/database_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Database API to access database | 2022/06/30 | [`API`](/labels/api/readme.md) |
 | [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | 2022/10/01 | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
-| [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | 2021/08/18 | [`Tool`](/labels/tool/readme.md) |
+| [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/11/25 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`Tool`](/labels/tool/readme.md) |
