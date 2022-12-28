@@ -17,7 +17,7 @@
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 | 2021/08/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2022/12/28 | [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
-| [Lowercase MCDR command](/plugins/lowercase_mcdr_command/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小写的 `!!MCDR` 指令 | 2022/12/27 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [Lowercase MCDR command](/plugins/lowercase_mcdr_command/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小写的 `!!MCDR` 指令 | 2022/12/28 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2022/11/30 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Control](/plugins/mirror_control/readme-zh_cn.md) | [Chara_SS](https://github.com/charassss/) | 一个控制镜像服务器的插件 | 2022/12/13 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MirrorServerReforged](/plugins/mirror_server_reforged/readme-zh_cn.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件 | 2022/02/11 | [`管理`](/labels/management/readme-zh_cn.md) |
@@ -35,5 +35,5 @@
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang) | 开关服助手 | 2022/06/30 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2022/03/05 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [World Copier](/plugins/world_copier/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 同步生存服和镜像服 | 2022/04/03 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | 2022/05/21 | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | N/A | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 

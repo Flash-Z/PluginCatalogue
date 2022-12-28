@@ -48,5 +48,5 @@ Plugin Amount: 39
 | [SimpleTranslator](/plugins/simple_translator/readme.md) | [skuzow](https://github.com/skuzow) | In-game translator | 2022/07/12 | [`Tool`](/labels/tool/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/05/18 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2022/11/28 | [`Tool`](/labels/tool/readme.md) |
-| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Run any Python code in game! | 2022/05/21 | [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
+| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Run any Python code in game! | N/A | [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
 

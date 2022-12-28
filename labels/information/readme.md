@@ -24,5 +24,5 @@ Plugin Amount: 15
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/05/18 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Query players' coordinates | 2022/07/20 | [`Information`](/labels/information/readme.md) |
 | [Wiki Request](/plugins/wiki_request/readme.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | A plugin to look up any MediaWiki | 2021/08/26 | [`Information`](/labels/information/readme.md) |
-| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Run any Python code in game! | 2022/05/21 | [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
+| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Run any Python code in game! | N/A | [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
 

@@ -24,5 +24,5 @@
 | [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2022/05/18 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [Where Is](/plugins/where_is/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 查询玩家的坐标 | 2022/07/20 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Wiki Request](/plugins/wiki_request/readme-zh_cn.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | 一个用来查MediaWiki的插件 | 2021/08/26 | [`信息`](/labels/information/readme-zh_cn.md) |
-| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | 2022/05/21 | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | N/A | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 
