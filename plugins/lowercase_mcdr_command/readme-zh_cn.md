@@ -30,7 +30,7 @@
 
 ### 介绍
 
-# Lowercase MCDR command
+# Lowercase MCDR Command
 
 > 小写的 MCDR 指令
 

@@ -1863,7 +1863,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 ### Introduction
 
-# Lowercase MCDR command
+# Lowercase MCDR Command
 
 > 小写的 MCDR 指令
 
