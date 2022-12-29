@@ -23,7 +23,7 @@
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | 2021/10/01 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Bingo](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Bingo 游戏实用工具 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Bot](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 最好用的地毯模组假人管理器！ | 2022/10/03 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
+| [Bot](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 最好用的地毯模组假人管理器！ | 2022/12/29 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作 | 2021/09/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Carpet Tick](/plugins/carpet_tick/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 使用 Carpet Mod 的 /tick 指令获取服务器信息 | 2022/08/27 | [`信息`](/labels/information/readme-zh_cn.md) |
@@ -34,7 +34,7 @@
 | [ColoredChat](/plugins/colored_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 支持原版显示格式化代码 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [cpu_temp](/plugins/cpu_temp/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器温度警报插件。 | 2021/10/26 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Crash Restart](/plugins/crash_restart/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在服务端崩溃后自动重启服务器的插件 | 2021/08/22 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [DatabaseAPI](/plugins/database_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 访问数据库 API | 2022/06/30 | [`API`](/labels/api/readme-zh_cn.md) |
+| [DatabaseAPI](/plugins/database_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 访问数据库 API | N/A | [`API`](/labels/api/readme-zh_cn.md) |
 | [DayCount NBT](/plugins/daycount_nbt/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :calendar: 获取和输出服务器开服时间。 | 2022/10/01 | [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Daytime](/plugins/daytime/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 显示游戏中的时间 | 2021/08/18 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Delay Exe](/plugins/delayexe/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 延迟执行命令, 直到所有玩家都离开游戏 | 2022/11/25 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
