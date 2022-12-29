@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 82
+插件数量: 83
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@
 | [Aluminum](/plugins/aluminum/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 一个 MCDR 插件管理器。 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | 2021/10/01 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Bingo](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Bingo 游戏实用工具 | 2022/06/16 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Bingo](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Bingo 游戏实用工具 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Bot](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 最好用的地毯模组假人管理器！ | 2022/10/03 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作 | 2021/09/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -39,6 +39,7 @@
 | [Daytime](/plugins/daytime/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 显示游戏中的时间 | 2021/08/18 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Delay Exe](/plugins/delayexe/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 延迟执行命令, 直到所有玩家都离开游戏 | 2022/11/25 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *无* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Dict Command Registration](/plugins/dict_command_registration/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 用 Python 字典注册您的指令 | 2022/12/29 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme-zh_cn.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [EULAgree](/plugins/eulagree/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 我总是同意EULA，不要问我 | 2022/12/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | 2021/10/04 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |

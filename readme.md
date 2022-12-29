@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 82
+Plugin Amount: 83
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ Plugin Amount: 82
 | [Aluminum](/plugins/aluminum/readme.md) | [Alex3236](https://github.com/alex3236) | A MCDReforged plugin manager. | N/A | [`Management`](/labels/management/readme.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | 2021/10/01 | [`Management`](/labels/management/readme.md) |
 | [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
-| [Bingo](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful tool for Bingo game | 2022/06/16 | [`Tool`](/labels/tool/readme.md) |
+| [Bingo](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful tool for Bingo game | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | 2022/10/03 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | A carpet bot manage plugin, able to spawn bot and make it execute actions | 2021/09/07 | [`Tool`](/labels/tool/readme.md) |
@@ -39,6 +39,7 @@ Plugin Amount: 82
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | 2021/08/18 | [`Tool`](/labels/tool/readme.md) |
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/11/25 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |
+| [Dict Command Registration](/plugins/dict_command_registration/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Register your command by a python dict | 2022/12/29 | [`API`](/labels/api/readme.md) |
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`Tool`](/labels/tool/readme.md) |
 | [EULAgree](/plugins/eulagree/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | I always agree with EULA, don't ask me | 2022/12/09 | [`Tool`](/labels/tool/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | 2021/10/04 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
