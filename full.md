@@ -2089,7 +2089,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 0.5.1
   - Metadata version: 0.5.1
   - Release version: 0.5.1
-- Total downloads: 87
+- Total downloads: 88
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
 - Labels: [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)

@@ -2089,7 +2089,7 @@ Params:
 - 版本: 0.5.1
   - 元数据版本: 0.5.1
   - 发布版本: 0.5.1
-- 总下载量: 87
+- 总下载量: 88
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
 - 标签: [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
