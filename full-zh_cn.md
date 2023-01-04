@@ -15,7 +15,7 @@
 - 版本: 0.3.0
   - 元数据版本: 0.3.0
   - 发布版本: 0.3.0
-- 总下载量: 315
+- 总下载量: 317
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -55,7 +55,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [AdvancedCalculator-v0.3.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.0) | 0.3.0 | 2022/10/21 20:03:33 | 2.42KB | 150 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.0/AdvancedCalculator-v0.3.0.mcdr) |
+| [AdvancedCalculator-v0.3.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.0) | 0.3.0 | 2022/10/21 20:03:33 | 2.42KB | 152 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.0/AdvancedCalculator-v0.3.0.mcdr) |
 | [AdvancedCalculator-v0.2.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.1) | 0.2.1 | 2022/07/21 13:20:06 | 2.38KB | 142 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.1/AdvancedCalculator-v0.2.1.mcdr) |
 | [AdvancedCalculator-v0.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.0) | 0.2.0 | 2022/07/18 11:47:23 | 2.27KB | 23 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.0/AdvancedCalculator-v0.2.0.mcdr) |
 
@@ -2222,7 +2222,7 @@ Params:
 - 版本: 1.2.0
   - 元数据版本: 1.2.1-alpha.1
   - 发布版本: 1.2.0
-- 总下载量: 3002
+- 总下载量: 3004
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Seen
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -2251,7 +2251,7 @@ Params:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Seen-v1.2.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.2.0) | 1.2.0 | 2022/11/23 15:34:38 | 10.95KB | 46 | [下载](https://github.com/TISUnion/Seen/releases/download/1.2.0/Seen-v1.2.0.mcdr) |
+| [Seen-v1.2.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.2.0) | 1.2.0 | 2022/11/23 15:34:38 | 10.95KB | 48 | [下载](https://github.com/TISUnion/Seen/releases/download/1.2.0/Seen-v1.2.0.mcdr) |
 | [Seen-v1.1.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.0) | 1.1.0 | 2021/08/22 13:01:56 | 9.77KB | 1535 | [下载](https://github.com/TISUnion/Seen/releases/download/1.1.0/Seen-v1.1.0.mcdr) |
 | [Seen-v1.1.1.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.1) | 1.1.1 | 2021/08/27 06:13:23 | 9.78KB | 1421 | [下载](https://github.com/TISUnion/Seen/releases/download/1.1.1/Seen-v1.1.1.mcdr) |
 
@@ -2264,7 +2264,7 @@ Params:
 - 版本: 2.3.5
   - 元数据版本: 2.3.5+build.67
   - 发布版本: 2.3.5
-- 总下载量: 3279
+- 总下载量: 3281
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -2291,7 +2291,7 @@ Params:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Task-v2.3.5+build.67.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.5) | 2.3.5 | 2022/12/15 01:59:58 | 18.48KB | 64 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.5/Task-v2.3.5%2Bbuild.67.mcdr) |
+| [Task-v2.3.5+build.67.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.5) | 2.3.5 | 2022/12/15 01:59:58 | 18.48KB | 66 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.5/Task-v2.3.5%2Bbuild.67.mcdr) |
 | [Task-v2.3.4+build.66.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.4) | 2.3.4 | 2022/11/10 16:35:38 | 18.45KB | 62 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.4/Task-v2.3.4%2Bbuild.66.mcdr) |
 | [Task-v2.3.3+build.65.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.3) | 2.3.3 | 2022/11/10 15:56:35 | 18.46KB | 3 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.3/Task-v2.3.3%2Bbuild.65.mcdr) |
 
