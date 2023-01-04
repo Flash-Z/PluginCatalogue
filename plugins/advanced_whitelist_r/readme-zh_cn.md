@@ -12,7 +12,7 @@
   - 元数据版本: 1.0.3
   - 发布版本: 1.0.3
 - 总下载量: 202
-- 作者: [noionion](https://github.com/2X-ercha)
+- 作者: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/AdvancedWhitelistR
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: For outline-model Whitelist

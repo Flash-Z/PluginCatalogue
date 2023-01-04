@@ -12,7 +12,7 @@
   - Metadata version: 1.0.3
   - Release version: 1.0.3
 - Total downloads: 202
-- Authors: [noionion](https://github.com/2X-ercha)
+- Authors: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/AdvancedWhitelistR
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: For outline-model Whitelist
