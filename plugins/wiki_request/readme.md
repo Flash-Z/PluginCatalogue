@@ -11,7 +11,7 @@
 - Version: 3.0
   - Metadata version: 3.0
   - Release version: 3.0
-- Total downloads: 289
+- Total downloads: 290
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
 - Labels: [`Information`](/labels/information/readme.md)
@@ -39,5 +39,5 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 289 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
+| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 290 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
 
