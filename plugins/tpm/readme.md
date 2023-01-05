@@ -8,10 +8,10 @@
 
 - Plugin ID: `tpm`
 - Plugin Name: TpManager
-- Version: 0.2.1
+- Version: 0.1.0
   - Metadata version: 0.2.1
-  - Release version: 0.2.1
-- Total downloads: 37
+  - Release version: 0.1.0
+- Total downloads: 1
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/tpmanager_mcdr
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -39,7 +39,5 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TpManager-v0.2.1.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.2.1) | 0.2.1 | 2022/11/28 02:31:44 | 16.41KB | 32 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.2.1/TpManager-v0.2.1.mcdr) |
-| [TpManager-v0.2.0.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.2.0) | 0.2.0 | 2022/11/27 22:43:52 | 16.41KB | 4 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.2.0/TpManager-v0.2.0.mcdr) |
 | [TpManager-v0.1.0.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.1.0) | 0.1.0 | 2022/11/27 19:00:42 | 16.18KB | 1 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.1.0/TpManager-v0.1.0.mcdr) |
 
