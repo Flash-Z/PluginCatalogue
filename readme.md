@@ -35,7 +35,7 @@ Plugin Amount: 83
 | [cpu_temp](/plugins/cpu_temp/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin to check cpu temp regularly. | 2021/10/26 | [`Information`](/labels/information/readme.md) |
 | [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | 2021/08/22 | [`Tool`](/labels/tool/readme.md) |
 | [DatabaseAPI](/plugins/database_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Database API to access database | N/A | [`API`](/labels/api/readme.md) |
-| [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | 2021/11/08 | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
+| [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | 2022/10/01 | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | 2021/08/18 | [`Tool`](/labels/tool/readme.md) |
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/11/25 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |

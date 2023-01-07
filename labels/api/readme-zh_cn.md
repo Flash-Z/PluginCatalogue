@@ -11,7 +11,7 @@
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
 | [DatabaseAPI](/plugins/database_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 访问数据库 API | N/A | [`API`](/labels/api/readme-zh_cn.md) |
-| [DayCount NBT](/plugins/daycount_nbt/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :calendar: 获取和输出服务器开服时间。 | 2021/11/08 | [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [DayCount NBT](/plugins/daycount_nbt/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :calendar: 获取和输出服务器开服时间。 | 2022/10/01 | [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Delay Exe](/plugins/delayexe/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 延迟执行命令, 直到所有玩家都离开游戏 | 2022/11/25 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Dict Command Registration](/plugins/dict_command_registration/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 用 Python 字典注册您的指令 | 2022/12/29 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | 2021/10/04 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
