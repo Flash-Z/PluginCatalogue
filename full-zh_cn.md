@@ -2051,7 +2051,7 @@ Params:
 - 版本: 1.3.1
   - 元数据版本: 1.3.1
   - 发布版本: 1.3.1
-- 总下载量: 2335
+- 总下载量: 2337
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - 仓库: https://github.com/TISUnion/LocationMarker
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -2079,7 +2079,7 @@ Params:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2335 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2337 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## loginproxy
 
@@ -2608,9 +2608,9 @@ Params:
 
 - 插件 ID: `mirror_server_reforged`
 - 插件名: MirrorServerReforged
-- 版本: 1.0.3
-  - 元数据版本: 1.0.3
-  - 发布版本: 1.0.3
+- 版本: 1.0.4
+  - 元数据版本: 1.0.4
+  - 发布版本: 1.0.4
 - 总下载量: 443
 - 作者: [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/MirrorServerReforged
@@ -2621,7 +2621,7 @@ Params:
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
 
 ### 包依赖
 
@@ -2695,9 +2695,9 @@ Params:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [MirrorServerReforged-v1.0.4.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.4) | 1.0.4 | 2023/01/12 15:03:50 | 8.45KB | 0 | [下载](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.4/MirrorServerReforged-v1.0.4.mcdr) |
 | [MirrorServerReforged-v1.0.3.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3) | 1.0.3 | 2022/02/11 13:32:32 | 8.22KB | 405 | [下载](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr) |
 | [MirrorServerReforged-v1.0.2.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.2) | 1.0.2 | 2022/02/05 07:17:57 | 8.16KB | 13 | [下载](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.2/MirrorServerReforged-v1.0.2.mcdr) |
-| [MirrorServerReforged-v1.0.1.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.1) | 1.0.1 | 2022/01/25 01:25:31 | 8.13KB | 22 | [下载](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.1/MirrorServerReforged-v1.0.1.mcdr) |
 
 ## mirror_server_sync
 
@@ -3868,7 +3868,7 @@ classDiagram
 - 版本: 1.1.0
   - 元数据版本: 1.2.0
   - 发布版本: 1.1.0
-- 总下载量: 2868
+- 总下载量: 2870
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -3895,7 +3895,7 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 1101 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
+| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 1103 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
 | [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1767 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## tpm

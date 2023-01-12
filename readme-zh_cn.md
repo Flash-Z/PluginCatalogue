@@ -67,7 +67,7 @@
 | [Minecraft Data API](/plugins/minecraft_data_api/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个用获得玩家信息等数据的的 API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Minecraft Version API](/plugins/minecraft_version_api/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于获取 Minecraft 服务端版本的 API 插件 | 2022/08/27 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Mirror Control](/plugins/mirror_control/readme-zh_cn.md) | [Chara_SS](https://github.com/charassss/) | 一个控制镜像服务器的插件 | 2022/12/13 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [MirrorServerReforged](/plugins/mirror_server_reforged/readme-zh_cn.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件 | 2022/02/11 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [MirrorServerReforged](/plugins/mirror_server_reforged/readme-zh_cn.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件 | 2023/01/12 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Server Sync](/plugins/mirror_server_sync/readme-zh_cn.md) | [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile) | 一个简单的MCDR插件，用于同步Minecraft地图文件 | 2022/05/18 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Sync Reforged](/plugins/mirror_sync_reforged/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于同步生存服存档至镜像服的插件 | 2022/07/23 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MoreCommandNodes](/plugins/more_command_nodes/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 更多的指令节点 | 2022/07/18 | [`API`](/labels/api/readme-zh_cn.md) |
