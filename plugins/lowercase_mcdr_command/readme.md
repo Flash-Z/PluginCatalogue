@@ -9,7 +9,7 @@
 - Plugin ID: `lowercase_mcdr_command`
 - Plugin Name: Lowercase MCDR command
 - Version: 1.1.1
-  - Metadata version: 1.1.1
+  - Metadata version: 1.1.2
   - Release version: 1.1.1
 - Total downloads: 61
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -21,7 +21,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.6.1 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.7.0 |
 
 ### Requirements
 
@@ -45,6 +45,7 @@
 | ~2.5.0 | 1.0.0 |
 | 2.6.0 | 1.1.0 |
 | 2.6.1 | 1.1.1 |
+| 2.7.0 | 1.1.2 |
 
 ### Download
 

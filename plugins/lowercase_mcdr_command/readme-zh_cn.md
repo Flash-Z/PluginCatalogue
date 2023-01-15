@@ -9,7 +9,7 @@
 - 插件 ID: `lowercase_mcdr_command`
 - 插件名: Lowercase MCDR command
 - 版本: 1.1.1
-  - 元数据版本: 1.1.1
+  - 元数据版本: 1.1.2
   - 发布版本: 1.1.1
 - 总下载量: 61
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -21,7 +21,7 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.6.1 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.7.0 |
 
 ### 包依赖
 
@@ -45,6 +45,7 @@
 | ~2.5.0 | 1.0.0 |
 | 2.6.0 | 1.1.0 |
 | 2.6.1 | 1.1.1 |
+| 2.7.0 | 1.1.2 |
 
 ### 下载
 
