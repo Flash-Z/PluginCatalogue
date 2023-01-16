@@ -11,7 +11,7 @@ Plugin Amount: 39
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
 | [AdvancedCalculator](/plugins/advanced_calculator/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Provides multiple convenient in-game calculations | 2022/10/21 | [`Tool`](/labels/tool/readme.md) |
-| [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
+| [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | 2021/08/21 | [`Tool`](/labels/tool/readme.md) |
 | [Bingo](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful tool for Bingo game | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | 2022/12/29 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
