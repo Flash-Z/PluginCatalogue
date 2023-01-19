@@ -34,7 +34,7 @@
 | [Jrrps Plg](/plugins/jrrps/readme-zh_cn.md) | [SkyDynamic](https://github.com/SkyDynamic) | 测试今天的运势 | 2022/03/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Lazy Teleport](/plugins/lazytp/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 维度间的快速折跃通道 | 2021/08/27 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme-zh_cn.md) | [XavierWah](https://github.com/XavierWah) | 这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。 | 2022/04/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [*数据拉取失败*](/plugins/mcd_seen/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | *数据拉取失败* | 2022/11/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Seen](/plugins/mcd_seen/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | 2023/01/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Task](/plugins/mcd_task/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 用于展示进行中的工程任务的插件 | 2022/12/15 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDRpost](/plugins/mcdrpost/readme-zh_cn.md) | [Flyky](https://github.com/Flyky) | 一个用于邮寄/传送物品的MCDR插件 | 2022/06/16 | [`工具`](/labels/tool/readme-zh_cn.md) |

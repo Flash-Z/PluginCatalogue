@@ -26,6 +26,7 @@
 
 | Python package | Requirement |
 | --- | --- |
+| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) | ~=0.17 |
 
 ### Introduction
 

@@ -40,7 +40,7 @@ Plugin Amount: 84
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | 2021/08/18 | [`Tool`](/labels/tool/readme.md) |
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/11/25 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/dict_command_registration/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *Data fetching failed* | 2023/01/15 | [`API`](/labels/api/readme.md) |
+| [Dict Command Registration](/plugins/dict_command_registration/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Register your command by a python dict | 2023/01/15 | [`API`](/labels/api/readme.md) |
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`Tool`](/labels/tool/readme.md) |
 | [EULAgree](/plugins/eulagree/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | I always agree with EULA, don't ask me | 2022/12/09 | [`Tool`](/labels/tool/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | 2021/10/04 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
@@ -51,7 +51,7 @@ Plugin Amount: 84
 | [joinMOTD++](/plugins/join_motd_plus/readme.md) | [Alex3236](https://github.com/alex3236) | Display content when players join the server. (with many useful features) | N/A | [`Information`](/labels/information/readme.md) |
 | [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`Tool`](/labels/tool/readme.md) |
 | [Jrrps Plg](/plugins/jrrps/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Test today's luck | 2022/03/20 | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | *Data fetching failed* | 2022/12/28 | [`API`](/labels/api/readme.md) |
+| [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2022/12/28 | [`API`](/labels/api/readme.md) |
 | [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | 2021/08/27 | [`Tool`](/labels/tool/readme.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | 2022/04/09 | [`Tool`](/labels/tool/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | 2021/08/26 | [`Management`](/labels/management/readme.md) |
@@ -59,7 +59,7 @@ Plugin Amount: 84
 | [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2022/12/28 | [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Lowercase MCDR command](/plugins/lowercase_mcdr_command/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Lowercase `!!MCDR` command | 2023/01/15 | [`Management`](/labels/management/readme.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme.md) |
-| [*Data fetching failed*](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | *Data fetching failed* | 2022/11/23 | [`Tool`](/labels/tool/readme.md) |
+| [Seen](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | 2023/01/19 | [`Tool`](/labels/tool/readme.md) |
 | [Task](/plugins/mcd_task/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A plugin to show tasks of project in progress | 2022/12/15 | [`Tool`](/labels/tool/readme.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | 2021/08/19 | [`Tool`](/labels/tool/readme.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Manage your mcdreforged plugins with ease | 2022/11/30 | [`Management`](/labels/management/readme.md) |

@@ -27,6 +27,8 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+| [pycryptodomex](https://pypi.org/project/pycryptodomex) |  |
 
 ### 介绍
 

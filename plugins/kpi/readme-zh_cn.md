@@ -7,20 +7,26 @@
 ### 基本信息
 
 - 插件 ID: `kpi`
-- 版本: *数据拉取失败*
+- 插件名: KPI
+- 版本: 1.3.3
+  - 元数据版本: 1.3.3
+  - 发布版本: 1.3.3
 - 总下载量: 168
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/kpi_mcdr
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 一个MCDR插件代码共享库
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 

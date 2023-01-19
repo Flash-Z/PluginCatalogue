@@ -40,7 +40,7 @@
 | [Daytime](/plugins/daytime/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 显示游戏中的时间 | 2021/08/18 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Delay Exe](/plugins/delayexe/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 延迟执行命令, 直到所有玩家都离开游戏 | 2022/11/25 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *无* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [*数据拉取失败*](/plugins/dict_command_registration/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *数据拉取失败* | 2023/01/15 | [`API`](/labels/api/readme-zh_cn.md) |
+| [Dict Command Registration](/plugins/dict_command_registration/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 用 Python 字典注册您的指令 | 2023/01/15 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme-zh_cn.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [EULAgree](/plugins/eulagree/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 我总是同意EULA，不要问我 | 2022/12/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | 2021/10/04 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
@@ -51,7 +51,7 @@
 | [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 在玩家进入服务器时展示内容。（特色功能++） | N/A | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Jrrp](/plugins/jrrp/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Jrrps Plg](/plugins/jrrps/readme-zh_cn.md) | [SkyDynamic](https://github.com/SkyDynamic) | 测试今天的运势 | 2022/03/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [*数据拉取失败*](/plugins/kpi/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | *数据拉取失败* | 2022/12/28 | [`API`](/labels/api/readme-zh_cn.md) |
+| [KPI](/plugins/kpi/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个MCDR插件代码共享库 | 2022/12/28 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Lazy Teleport](/plugins/lazytp/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 维度间的快速折跃通道 | 2021/08/27 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme-zh_cn.md) | [XavierWah](https://github.com/XavierWah) | 这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。 | 2022/04/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 | 2021/08/26 | [`管理`](/labels/management/readme-zh_cn.md) |
@@ -59,7 +59,7 @@
 | [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2022/12/28 | [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Lowercase MCDR command](/plugins/lowercase_mcdr_command/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小写的 `!!MCDR` 指令 | 2023/01/15 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
-| [*数据拉取失败*](/plugins/mcd_seen/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | *数据拉取失败* | 2022/11/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Seen](/plugins/mcd_seen/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | 2023/01/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Task](/plugins/mcd_task/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 用于展示进行中的工程任务的插件 | 2022/12/15 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2022/11/30 | [`管理`](/labels/management/readme-zh_cn.md) |

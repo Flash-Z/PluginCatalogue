@@ -7,20 +7,26 @@
 ### Basic Information
 
 - Plugin ID: `dict_command_registration`
-- Version: *Data fetching failed*
+- Plugin Name: Dict Command Registration
+- Version: 1.1.0
+  - Metadata version: 1.1.0
+  - Release version: 1.1.0
 - Total downloads: 131
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: Register your command by a python dict
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.7.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
