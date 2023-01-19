@@ -27,7 +27,6 @@
 
 | Python package | Requirement |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 

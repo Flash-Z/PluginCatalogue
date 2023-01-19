@@ -27,8 +27,6 @@
 
 | Python package | Requirement |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
-| [pycryptodomex](https://pypi.org/project/pycryptodomex) |  |
 
 ### Introduction
 

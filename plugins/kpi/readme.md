@@ -7,26 +7,20 @@
 ### Basic Information
 
 - Plugin ID: `kpi`
-- Plugin Name: KPI
-- Version: 1.3.3
-  - Metadata version: 1.3.3
-  - Release version: 1.3.3
+- Version: *Data fetching failed*
 - Total downloads: 168
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Labels: [`API`](/labels/api/readme.md)
-- Description: A MCDR plugins codes share library
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 

@@ -27,7 +27,6 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [requests](https://pypi.org/project/requests) | ==2.26.0 |
 
 ### 介绍
 
