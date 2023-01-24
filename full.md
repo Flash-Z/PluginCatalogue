@@ -275,7 +275,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.0.6
   - Metadata version: 1.0.6
   - Release version: 1.0.6
-- Total downloads: 447
+- Total downloads: 450
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
@@ -457,7 +457,7 @@ flowchart LR
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Bot-v1.0.6.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.6) | 1.0.6 | 2023/01/19 16:58:58 | 13.6KB | 33 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.6/Bot-v1.0.6.mcdr) |
+| [Bot-v1.0.6.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.6) | 1.0.6 | 2023/01/19 16:58:58 | 13.6KB | 36 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.6/Bot-v1.0.6.mcdr) |
 | [Bot-v1.0.5.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.5) | 1.0.5 | 2022/12/29 15:19:31 | 13.55KB | 118 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.5/Bot-v1.0.5.mcdr) |
 | [Bot-v1.0.4.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.4) | 1.0.4 | 2022/12/29 14:53:06 | 13.55KB | 3 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.4/Bot-v1.0.4.mcdr) |
 
@@ -1653,7 +1653,7 @@ Make file transfers faster!
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
-- Total downloads: 7537
+- Total downloads: 7539
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1679,7 +1679,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 2004 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 2006 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1507 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1328 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -1924,7 +1924,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 1.3.3
   - Metadata version: 1.3.3
   - Release version: 1.3.3
-- Total downloads: 186
+- Total downloads: 187
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Labels: [`API`](/labels/api/readme.md)
@@ -1951,7 +1951,7 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.3.3.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.3.3) | 1.3.3 | 2022/12/28 01:51:17 | 19.2KB | 65 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.3.3/KPI-v1.3.3.mcdr) |
+| [KPI-v1.3.3.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.3.3) | 1.3.3 | 2022/12/28 01:51:17 | 19.2KB | 66 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.3.3/KPI-v1.3.3.mcdr) |
 | [KPI-v1.3.2.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.3.2) | 1.3.2 | 2022/11/30 04:45:55 | 18.87KB | 51 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.3.2/KPI-v1.3.2.mcdr) |
 | [KPI-v1.3.1.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.3.1) | 1.3.1 | 2022/11/27 19:48:20 | 18.88KB | 9 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.3.1/KPI-v1.3.1.mcdr) |
 
@@ -3842,7 +3842,7 @@ testing basic server problem.
 - Version: 7.5.1
   - Metadata version: 7.5.1
   - Release version: 7.5.1
-- Total downloads: 6836
+- Total downloads: 6837
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
@@ -3870,7 +3870,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 876 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
+| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 877 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
 | [StatsHelper-v7.5.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.0) | 7.5.0 | 2022/04/01 14:29:58 | 23.08KB | 130 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.0/StatsHelper-v7.5.0.mcdr) |
 | [StatsHelper-v7.4.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0) | 7.4.0 | 2022/03/08 15:06:34 | 22.95KB | 73 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr) |
 
@@ -3979,7 +3979,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 0.2.1
   - Metadata version: 0.2.1
   - Release version: 0.2.1
-- Total downloads: 51
+- Total downloads: 52
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/tpmanager_mcdr
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -4007,7 +4007,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TpManager-v0.2.1.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.2.1) | 0.2.1 | 2022/11/28 02:31:44 | 16.41KB | 46 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.2.1/TpManager-v0.2.1.mcdr) |
+| [TpManager-v0.2.1.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.2.1) | 0.2.1 | 2022/11/28 02:31:44 | 16.41KB | 47 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.2.1/TpManager-v0.2.1.mcdr) |
 | [TpManager-v0.2.0.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.2.0) | 0.2.0 | 2022/11/27 22:43:52 | 16.41KB | 4 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.2.0/TpManager-v0.2.0.mcdr) |
 | [TpManager-v0.1.0.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.1.0) | 0.1.0 | 2022/11/27 19:00:42 | 16.18KB | 1 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.1.0/TpManager-v0.1.0.mcdr) |
 
