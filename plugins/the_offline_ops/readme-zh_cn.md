@@ -39,6 +39,9 @@ This plugin will check player's IP when a player join the server. If the IP is N
 ## :balloon: Lightweight, plug and play
 Simpler, lightweight, plug and play<br>
 更简单、轻量化，即插即用<br>
+## :exclamation: Warning
+Only matches the IP address received by the server and player name, and the player original IP cannot be obtained for similar proxy connections. More details in README file<br>
+插件只匹配服务器接收到的的IP地址和玩家名，对类似代理的方式连接则没法获取玩家源IP，详见README文件<br>
 ## :snake: Commands
 **All the commands need MCDR permissions at least level 2**<br>
 **所有命令都需要MCDR 2级权限**<br>
