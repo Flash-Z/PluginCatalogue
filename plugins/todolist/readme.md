@@ -1,0 +1,47 @@
+**English** | [中文](readme-zh_cn.md)
+
+\>\>\> [Back to index](/readme.md)
+
+## todolist
+
+### Basic Information
+
+- Plugin ID: `todolist`
+- Plugin Name: ToDoList
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: 1.0.0
+- Total downloads: 1
+- Authors: [Flash-Z](https://github.com/Flash-Z)
+- Repository: https://github.com/Flash-Z/MCDReforgedPlugins
+- Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
+- Description: ToDoList
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+# MCDR-ToDoList
+适用于[MCDR](https://github.com/Fallen-Breath/MCDReforged)的ToDoList插件，可查看项目名称、描述、进度及创建者等
+![!!td lis](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-02-01_21-57-05.png)
+![!!td lis](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-02-01_21-58-39.png)
+## ToDo:
+1. 打包插件
+2. tags功能（已在配置文件中预留，等待填坑）
+3. 分页功能
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [ToDoList-v1.0.0.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.0) | 1.0.0 | 2023/02/02 05:39:26 | 3.2KB | 1 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.0/ToDoList-v1.0.0.mcdr) |
+
