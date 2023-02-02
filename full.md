@@ -15,7 +15,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Version: 0.3.1
   - Metadata version: 0.3.1
   - Release version: 0.3.1
-- Total downloads: 388
+- Total downloads: 389
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -55,7 +55,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AdvancedCalculator-v0.3.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.1) | 0.3.1 | 2023/01/19 17:01:07 | 2.46KB | 50 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.1/AdvancedCalculator-v0.3.1.mcdr) |
+| [AdvancedCalculator-v0.3.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.1) | 0.3.1 | 2023/01/19 17:01:07 | 2.46KB | 51 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.1/AdvancedCalculator-v0.3.1.mcdr) |
 | [AdvancedCalculator-v0.3.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.0) | 0.3.0 | 2022/10/21 20:03:33 | 2.42KB | 196 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.0/AdvancedCalculator-v0.3.0.mcdr) |
 | [AdvancedCalculator-v0.2.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.1) | 0.2.1 | 2022/07/21 13:20:06 | 2.38KB | 142 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.1/AdvancedCalculator-v0.2.1.mcdr) |
 
@@ -191,7 +191,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 4150
+- Total downloads: 4152
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -218,7 +218,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 2821 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
+| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 2823 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
 | [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 1329 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
 ## bingo
@@ -510,7 +510,7 @@ flowchart LR
 - Version: 0.3.0
   - Metadata version: 0.3.0
   - Release version: 0.3.0
-- Total downloads: 1654
+- Total downloads: 1655
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -539,7 +539,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1654 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
+| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1655 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
 ## carpet_tick
 
@@ -680,7 +680,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Version: 2.3.0
   - Metadata version: 2.3.0
   - Release version: 2.3.0
-- Total downloads: 1339
+- Total downloads: 1340
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -710,7 +710,7 @@ Chatbridge v2
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 463 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 464 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0) | 2.2.0 | 2022/03/10 06:23:41 | 40.57KB | 459 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1) | 2.1.1 | 2022/03/05 06:56:57 | 39.94KB | 18 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.1/ChatBridge.pyz) |
 
@@ -723,7 +723,7 @@ Chatbridge v2
 - Version: 0.2.7
   - Metadata version: 0.2.7-dev032
   - Release version: 0.2.7
-- Total downloads: 102
+- Total downloads: 103
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/ChatBridgeReforged
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -752,7 +752,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.7) | 0.2.7 | 2022/12/20 09:53:31 | 49.35KB | 76 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.7/ChatBridgeReforged_MC.pyz) |
+| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.7) | 0.2.7 | 2022/12/20 09:53:31 | 49.35KB | 77 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.7/ChatBridgeReforged_MC.pyz) |
 | [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1) | 0.1.1 | 2022/03/04 06:12:36 | 46.96KB | 18 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.pyz) |
 | [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2) | 0.0.2 | 2022/01/15 16:33:44 | 44.9KB | 8 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_MC.pyz) |
 
@@ -2168,7 +2168,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
-- Total downloads: 125
+- Total downloads: 127
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2198,8 +2198,8 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LowercaseMCDRCommand-v1.2.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.2) | 1.2.2 | 2023/01/30 21:16:53 | 857B | 5 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.2/LowercaseMCDRCommand-v1.2.2.mcdr) |
-| [LowercaseMCDRcommand-v1.2.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.1) | 1.2.1 | 2023/01/26 21:20:50 | 856B | 22 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.1/LowercaseMCDRcommand-v1.2.1.mcdr) |
+| [LowercaseMCDRCommand-v1.2.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.2) | 1.2.2 | 2023/01/30 21:16:53 | 857B | 6 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.2/LowercaseMCDRCommand-v1.2.2.mcdr) |
+| [LowercaseMCDRcommand-v1.2.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.1) | 1.2.1 | 2023/01/26 21:20:50 | 856B | 23 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.1/LowercaseMCDRcommand-v1.2.1.mcdr) |
 | [LowercaseMCDRcommand-v1.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.0) | 1.2.0 | 2023/01/26 17:40:59 | 910B | 1 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.0/LowercaseMCDRcommand-v1.2.0.mcdr) |
 
 ## mc_uuid
@@ -2249,7 +2249,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.2.1
   - Metadata version: 1.2.1
   - Release version: 1.2.1
-- Total downloads: 3043
+- Total downloads: 3044
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Seen
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -2278,7 +2278,7 @@ Shows tasks of project in progress
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Seen-v1.2.1.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.2.1) | 1.2.1 | 2023/01/19 02:49:00 | 10.94KB | 21 | [Download](https://github.com/TISUnion/Seen/releases/download/1.2.1/Seen-v1.2.1.mcdr) |
+| [Seen-v1.2.1.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.2.1) | 1.2.1 | 2023/01/19 02:49:00 | 10.94KB | 22 | [Download](https://github.com/TISUnion/Seen/releases/download/1.2.1/Seen-v1.2.1.mcdr) |
 | [Seen-v1.2.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.2.0) | 1.2.0 | 2022/11/23 15:34:38 | 10.95KB | 66 | [Download](https://github.com/TISUnion/Seen/releases/download/1.2.0/Seen-v1.2.0.mcdr) |
 | [Seen-v1.1.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.0) | 1.1.0 | 2021/08/22 13:01:56 | 9.77KB | 1535 | [Download](https://github.com/TISUnion/Seen/releases/download/1.1.0/Seen-v1.1.0.mcdr) |
 
@@ -2517,7 +2517,7 @@ A MCDR plugin for post/teleport items
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 4443
+- Total downloads: 4445
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -2547,7 +2547,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 4443 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 4445 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -2683,7 +2683,7 @@ config.json
 - Version: 1.0.4
   - Metadata version: 1.0.4
   - Release version: 1.0.4
-- Total downloads: 483
+- Total downloads: 485
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2767,7 +2767,7 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorServerReforged-v1.0.4.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.4) | 1.0.4 | 2023/01/12 15:03:50 | 8.45KB | 37 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.4/MirrorServerReforged-v1.0.4.mcdr) |
+| [MirrorServerReforged-v1.0.4.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.4) | 1.0.4 | 2023/01/12 15:03:50 | 8.45KB | 39 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.4/MirrorServerReforged-v1.0.4.mcdr) |
 | [MirrorServerReforged-v1.0.3.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3) | 1.0.3 | 2022/02/11 13:32:32 | 8.22KB | 408 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr) |
 | [MirrorServerReforged-v1.0.2.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.2) | 1.0.2 | 2022/02/05 07:17:57 | 8.16KB | 13 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.2/MirrorServerReforged-v1.0.2.mcdr) |
 
@@ -3317,7 +3317,7 @@ Database-based Carpet fake player management
 - Version: 1.7.0
   - Metadata version: 1.7.0
   - Release version: 1.7.0
-- Total downloads: 9361
+- Total downloads: 9363
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -3352,7 +3352,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 1260 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
+| [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 1262 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
 | [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1592 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 619 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 
