@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 88
+插件数量: 91
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -79,9 +79,12 @@
 | [OfflineWhitelist](/plugins/offline_whitelist/readme-zh_cn.md) | [skuzow](https://github.com/skuzow) | Offline whitelist helper | 2022/07/11 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [OneBot API](/plugins/onebot_api/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2022/11/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Online](/plugins/online/readme-zh_cn.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服 | 2021/09/07 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [OnlinePlayerAPI](/plugins/online_player_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 在线玩家 API | 2023/02/03 | [`API`](/labels/api/readme-zh_cn.md) |
 | [PCRC](/plugins/pcrc/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 基于PyCraft的Replay客户端 | 2022/09/30 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 创建永久的用 zip 压缩的备份 | 2021/08/17 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Player Manager](/plugins/player_manager/readme-zh_cn.md) | [hail122](https://github.com/linstar-fxt) | 帮助你管理假人 | 2022/07/08 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
+| [QQAPI](/plugins/qq_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 连接 MC 与 QQ | 2023/02/03 | [`API`](/labels/api/readme-zh_cn.md) |
+| [QQChat](/plugins/qq_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | QQ 相关实用功能 | 2023/02/03 | [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 多槽位备份/回档插件 | 2022/10/03 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 一个快速运行自定义脚本的插件。 | 2021/12/24 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Region file Updater](/plugins/region_file_updater/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个从指定位置拉取region文件至本服存档的插件 | 2022/03/08 | [`管理`](/labels/management/readme-zh_cn.md) |

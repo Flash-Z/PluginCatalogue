@@ -6,7 +6,7 @@
 
 Plugin Index with label `Information`
 
-Plugin Amount: 17
+Plugin Amount: 18
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ Plugin Amount: 17
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | 2021/08/16 | [`Information`](/labels/information/readme.md) |
 | [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2022/12/28 | [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Online](/plugins/online/readme.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | Display the online players for Group server, with click event to quickly join every sub-server. | 2021/09/07 | [`Information`](/labels/information/readme.md) |
+| [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful Functions with QQ | 2023/02/03 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
 | [simple_test](/plugins/simple_test/readme.md) | [Ricky](https://github.com/R1ckyH) | testing basic server problem. | 2021/10/25 | [`Information`](/labels/information/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/05/18 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/02/03 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |

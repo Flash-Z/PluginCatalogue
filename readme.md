@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 88
+Plugin Amount: 91
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -79,9 +79,12 @@ Plugin Amount: 88
 | [OfflineWhitelist](/plugins/offline_whitelist/readme.md) | [skuzow](https://github.com/skuzow) | Offline whitelist helper | 2022/07/11 | [`Management`](/labels/management/readme.md) |
 | [OneBot API](/plugins/onebot_api/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2022/11/16 | [`API`](/labels/api/readme.md) |
 | [Online](/plugins/online/readme.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | Display the online players for Group server, with click event to quickly join every sub-server. | 2021/09/07 | [`Information`](/labels/information/readme.md) |
+| [OnlinePlayerAPI](/plugins/online_player_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Online Player API | 2023/02/03 | [`API`](/labels/api/readme.md) |
 | [PCRC](/plugins/pcrc/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | PyCraft based Replay Client | 2022/09/30 | [`Tool`](/labels/tool/readme.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A plugin for creating permanent zip world backups | 2021/08/17 | [`Management`](/labels/management/readme.md) |
 | [Player Manager](/plugins/player_manager/readme.md) | [hail122](https://github.com/linstar-fxt) | A MCDReforged plugin to help with managing fake players | 2022/07/08 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
+| [QQAPI](/plugins/qq_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Connect Minecraft and QQ | 2023/02/03 | [`API`](/labels/api/readme.md) |
+| [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful Functions with QQ | 2023/02/03 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A backup / restore plugin, with multiple backup slot | 2022/10/03 | [`Management`](/labels/management/readme.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin for run command quickly. | 2021/12/24 | [`Tool`](/labels/tool/readme.md) |
 | [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | 2022/03/08 | [`Management`](/labels/management/readme.md) |
