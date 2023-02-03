@@ -99,7 +99,7 @@
 | [ToDoList](/plugins/todolist/readme-zh_cn.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList，待办清单 | 2023/02/03 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [TpManager](/plugins/tpm/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器传送管理 | 2022/11/28 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [UUIDAPI](/plugins/uuid_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | N/A | [`API`](/labels/api/readme-zh_cn.md) |
-| [welcome_msg](/plugins/welcome_msg/readme-zh_cn.md) | [JAs0n](https://github.com/JAs0n319) | 入服欢迎消息 | N/A | [`信息`](/labels/information/readme-zh_cn.md) |
+| [welcome_msg](/plugins/welcome_msg/readme-zh_cn.md) | [JAs0n](https://github.com/JAs0n319) | 入服欢迎消息 | 2023/02/03 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Where Is](/plugins/where_is/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 查询玩家的坐标 | 2022/07/20 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Wiki Request](/plugins/wiki_request/readme-zh_cn.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | 一个用来查MediaWiki的插件 | 2021/08/26 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [World Copier](/plugins/world_copier/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 同步生存服和镜像服 | 2022/04/03 | [`管理`](/labels/management/readme-zh_cn.md) |
