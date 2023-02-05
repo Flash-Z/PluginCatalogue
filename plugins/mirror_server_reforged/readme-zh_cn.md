@@ -9,7 +9,7 @@
 - 插件 ID: `mirror_server_reforged`
 - 插件名: MirrorServerReforged
 - 版本: 1.0.4
-  - 元数据版本: 1.0.4
+  - 元数据版本: 1.0.5
   - 发布版本: 1.0.4
 - 总下载量: 496
 - 作者: [GamerNoTitle](https://github.com/GamerNoTitle)

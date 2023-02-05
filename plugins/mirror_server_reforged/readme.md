@@ -9,7 +9,7 @@
 - Plugin ID: `mirror_server_reforged`
 - Plugin Name: MirrorServerReforged
 - Version: 1.0.4
-  - Metadata version: 1.0.4
+  - Metadata version: 1.0.5
   - Release version: 1.0.4
 - Total downloads: 496
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
