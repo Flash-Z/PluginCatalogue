@@ -100,7 +100,7 @@ Plugin Amount: 91
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/05/18 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [The Offline ops](/plugins/the_offline_ops/readme.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | Check the player's IP to prevent impersonation of logging into the offline server | 2023/02/04 | [`Management`](/labels/management/readme.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | 2022/11/25 | [`Management`](/labels/management/readme.md) |
-| [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/02/03 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
+| [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/02/05 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2022/11/28 | [`Tool`](/labels/tool/readme.md) |
 | [UUIDAPI](/plugins/uuid_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | N/A | [`API`](/labels/api/readme.md) |
 | [welcome_msg](/plugins/welcome_msg/readme.md) | [JAs0n](https://github.com/JAs0n319) | Send welcome Msg to all player | 2023/02/03 | [`Information`](/labels/information/readme.md) |

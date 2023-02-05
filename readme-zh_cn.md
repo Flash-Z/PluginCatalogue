@@ -100,7 +100,7 @@
 | [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2022/05/18 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [The Offline ops](/plugins/the_offline_ops/readme-zh_cn.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | 检测玩家IP以防止冒名登陆离线服务器 | 2023/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2022/11/25 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [ToDoList](/plugins/todolist/readme-zh_cn.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList，待办清单 | 2023/02/03 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
+| [ToDoList](/plugins/todolist/readme-zh_cn.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList，待办清单 | 2023/02/05 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [TpManager](/plugins/tpm/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器传送管理 | 2022/11/28 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [UUIDAPI](/plugins/uuid_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | N/A | [`API`](/labels/api/readme-zh_cn.md) |
 | [welcome_msg](/plugins/welcome_msg/readme-zh_cn.md) | [JAs0n](https://github.com/JAs0n319) | 入服欢迎消息 | 2023/02/03 | [`信息`](/labels/information/readme-zh_cn.md) |

@@ -49,7 +49,7 @@
 | [Simple OP](/plugins/simple_op/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op 以获取op, !!restart 以重启服务器 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [SimpleTranslator](/plugins/simple_translator/readme-zh_cn.md) | [skuzow](https://github.com/skuzow) | In-game translator | 2022/07/12 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2022/05/18 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
-| [ToDoList](/plugins/todolist/readme-zh_cn.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList，待办清单 | 2023/02/03 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
+| [ToDoList](/plugins/todolist/readme-zh_cn.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList，待办清单 | 2023/02/05 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [TpManager](/plugins/tpm/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器传送管理 | 2022/11/28 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | N/A | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 

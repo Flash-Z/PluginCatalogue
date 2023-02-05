@@ -23,7 +23,7 @@ Plugin Amount: 18
 | [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful Functions with QQ | 2023/02/03 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
 | [simple_test](/plugins/simple_test/readme.md) | [Ricky](https://github.com/R1ckyH) | testing basic server problem. | 2021/10/25 | [`Information`](/labels/information/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/05/18 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
-| [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/02/03 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
+| [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/02/05 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [welcome_msg](/plugins/welcome_msg/readme.md) | [JAs0n](https://github.com/JAs0n319) | Send welcome Msg to all player | 2023/02/03 | [`Information`](/labels/information/readme.md) |
 | [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Query players' coordinates | 2022/07/20 | [`Information`](/labels/information/readme.md) |
 | [Wiki Request](/plugins/wiki_request/readme.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | A plugin to look up any MediaWiki | 2021/08/26 | [`Information`](/labels/information/readme.md) |
