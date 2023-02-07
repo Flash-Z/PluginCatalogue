@@ -4379,7 +4379,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Plugin ID: `todolist`
 - Plugin Name: ToDoList
 - Version: 1.0.2
-  - Metadata version: 1.0.2
+  - Metadata version: 1.0.3
   - Release version: 1.0.2
 - Total downloads: 6
 - Authors: [Flash-Z](https://github.com/Flash-Z)
