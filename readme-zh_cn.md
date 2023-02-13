@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 91
+插件数量: 92
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -47,6 +47,7 @@
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | 2021/10/04 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Gamemode](/plugins/gamemode/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 旁观者模式以旁观，返回生存时传送回原坐标 | 2022/12/02 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Here](/plugins/here/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 显示坐标并高亮玩家 | 2021/11/05 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [HibernateR](/plugins/hibernate_r/readme-zh_cn.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | 2023/02/13 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Info](/plugins/info/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 获取服务器信息 | N/A | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Join MOTD](/plugins/join_motd/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 当玩家加入游戏时向其发送欢迎信息 | 2022/05/22 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 在玩家进入服务器时展示内容。（特色功能++） | N/A | [`信息`](/labels/information/readme-zh_cn.md) |

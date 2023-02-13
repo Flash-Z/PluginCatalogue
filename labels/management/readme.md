@@ -6,7 +6,7 @@
 
 Plugin Index with label `Management`
 
-Plugin Amount: 28
+Plugin Amount: 29
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@ Plugin Amount: 28
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | 2021/10/01 | [`Management`](/labels/management/readme.md) |
 | [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | 2023/01/19 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
+| [HibernateR](/plugins/hibernate_r/readme.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | 2023/02/13 | [`Management`](/labels/management/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | 2021/08/26 | [`Management`](/labels/management/readme.md) |
 | [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2022/12/28 | [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Lowercase MCDR Command](/plugins/lowercase_mcdr_command/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Lowercase `!!MCDR` command | 2023/01/30 | [`Management`](/labels/management/readme.md) |
