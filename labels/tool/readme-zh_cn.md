@@ -39,7 +39,7 @@
 | [Task](/plugins/mcd_task/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 用于展示进行中的工程任务的插件 | 2022/12/15 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDRpost](/plugins/mcdrpost/readme-zh_cn.md) | [Flyky](https://github.com/Flyky) | 一个用于邮寄/传送物品的MCDR插件 | 2022/06/16 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | 2022/01/20 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | 2022/02/02 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [PCRC](/plugins/pcrc/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 基于PyCraft的Replay客户端 | 2022/09/30 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Player Manager](/plugins/player_manager/readme-zh_cn.md) | [hail122](https://github.com/linstar-fxt) | 帮助你管理假人 | 2022/07/08 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 一个快速运行自定义脚本的插件。 | 2021/12/24 | [`工具`](/labels/tool/readme-zh_cn.md) |
