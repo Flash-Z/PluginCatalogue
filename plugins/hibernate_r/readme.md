@@ -9,7 +9,7 @@
 - Plugin ID: `hibernate_r`
 - Plugin Name: HibernateR
 - Version: 0.1.0
-  - Metadata version: 0.1.0
+  - Metadata version: 1.0.0
   - Release version: 0.1.0
 - Total downloads: 0
 - Authors: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)

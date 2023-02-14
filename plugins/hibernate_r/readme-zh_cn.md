@@ -9,7 +9,7 @@
 - 插件 ID: `hibernate_r`
 - 插件名: HibernateR
 - 版本: 0.1.0
-  - 元数据版本: 0.1.0
+  - 元数据版本: 1.0.0
   - 发布版本: 0.1.0
 - 总下载量: 0
 - 作者: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)
