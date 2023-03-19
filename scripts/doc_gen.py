@@ -3,7 +3,7 @@ import re
 import shutil
 import time
 from contextlib import contextmanager
-from typing import List, IO, Iterable, Any
+from typing import List, IO, Iterable, Any, Optional, Collection
 
 import constants
 import utils
@@ -53,7 +53,7 @@ def get_full_index_file_path():
 
 
 def get_label_list_markdown(plugin: Plugin):
-	return ', '.join(map(lambda l: '[`{}`]({})'.format(l, get_label_doc_link(l.id)), plugin.labels))
+	return ', '.join(map(lambda label: '[`{}`]({})'.format(label, get_label_doc_link(label.id)), plugin.labels))
 
 
 def write_translation_nav(file_name: str, file: IO[str]):
@@ -188,6 +188,7 @@ def _write_plugin(plugin: Plugin, file: IO[str]):
 	file.write('- {}: {}\n'.format(Text('total_downloads'), plugin.release_summary.get_total_downloads()))
 	file.write('- {}: {}\n'.format(Text('authors'), ', '.join(map(lambda a: a.to_markdown(), plugin.authors))))
 	file.write('- {}: {}\n'.format(Text('repository'), plugin.repository))
+	file.write('- {}: {}\n'.format(Text('repository_plugin_page'), plugin.repository_plugin_page))
 	file.write('- {}: {}\n'.format(Text('labels'), get_label_list_markdown(plugin)))
 	if plugin.is_data_fetched():
 		file.write('- {}: {}\n'.format(Text('description'), plugin.meta_info.translated_description))
@@ -263,9 +264,9 @@ def generate_plugins(plugin_list: List[Plugin]):
 			write_plugin_download(plugin, file, limit=-1)
 
 
-def generate_doc():
+def generate_doc(target_ids: Optional[Collection[str]] = None):
 	print('Generating doc')
-	plugin_list = get_plugin_list()
+	plugin_list = get_plugin_list(target_ids)
 	plugin_list.fetch_data(fail_hard=False)
 	if os.path.isdir(constants.CATALOGUE_FOLDER):
 		shutil.rmtree(constants.CATALOGUE_FOLDER)
@@ -317,7 +318,7 @@ class Table:
 		return len(self.__title)
 
 	def add_row(self, *items):
-		assert len(items) == self.column_count
+		assert len(items) == self.column_count, 'expected row width {}, but found row with width {}'.format(self.column_count, len(items))
 		try:
 			self.__rows.append(tuple(map(str, items)))
 		except:

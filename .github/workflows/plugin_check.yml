@@ -1,14 +1,16 @@
-name: PR Check
+name: Plugin Check
 
 on:
   pull_request:
     branches:
       - master
+    paths:
+      - 'plugins/**'
+    types: [opened, synchronize]
 
 jobs:
-  check:
+  plugin-check:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
 
@@ -41,7 +43,7 @@ jobs:
           else
             plugins=${plugins%,}
             echo Well, seems there's plugin(s) added or modified. let's run a check for: $plugins
-            python manager.py check --id $plugins
+            python main.py --targets $plugins check
           fi
           done
           

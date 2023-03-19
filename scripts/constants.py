@@ -1,6 +1,9 @@
 import os
 
-RELEASE_INFO_SCHEMA_VERSION = 2
+PLUGIN_INFO_SCHEMA_VERSION = 1
+META_INFO_SCHEMA_VERSION = 2
+RELEASE_INFO_SCHEMA_VERSION = 6
+MAX_RELEASE_PER_PAGE = 100
 
 THREAD_POOL_WORKER = 32
 MCDR_LINK = 'https://github.com/Fallen-Breath/MCDReforged'
@@ -15,7 +18,6 @@ PLUGINS_FOLDER = os.path.join(ROOT, 'plugins')
 LABEL_FILE = os.path.join(RESOURCES_FOLDER, 'labels.json')
 CATALOGUE_FOLDER = os.path.join(ROOT, 'catalogue')
 META_FOLDER = os.path.join(ROOT, 'meta')
-META_CACHE_FOLDER = os.path.join(META_FOLDER, '%cache')
 
 PROXIES = None
 if 'http_proxy' in os.environ:
@@ -24,3 +26,8 @@ if 'http_proxy' in os.environ:
 		'http': http_proxy,
 		'https': http_proxy
 	}
+
+
+class DEBUG:
+	REQUEST_GET = False
+	SHOW_RATE_LIMIT = False
